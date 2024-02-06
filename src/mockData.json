@@ -1,0 +1,9 @@
+{
+    "Database": {
+        "User": [
+            "Username",
+            "Email",
+            "Password"
+        ]
+    }
+}
