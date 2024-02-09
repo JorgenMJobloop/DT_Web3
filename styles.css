@@ -22,6 +22,22 @@ h2 {
     color: #dbd5d5;
 }
 
+.text-container {
+    display: flex;
+    border: 2px solid #ff49c1;
+    background-color: #3b3737;
+    border-radius: 5.5px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-right: 60%;
+    margin-left: 45%;
+    margin-top: 12px;
+
+}
+
 button {
     background-color: #414042;
     border: 2px solid #ff49c1;
